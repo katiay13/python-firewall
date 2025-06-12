@@ -9,3 +9,8 @@ A basic Python project to simulate a packet filtering firewall using Scapy. Buil
 - Log allowed/blocked traffic
 
 ## Getting Started
+
+
+## Notes
+
+- Run with sudo because raw socket access (sniffing) requires admin privileges
